@@ -1,0 +1,30 @@
+body{
+  box-sizing: border-box;
+  color: white;
+}
+
+.container{
+  background-color: #3c6478;
+  margin: auto;
+  width: 50%;
+  height: 50vh;
+  padding: 30px;
+}
+
+#form{
+  margin: 20px 0;
+}
+
+#weight-in-kg{
+  color: rgb(162, 243, 162);
+  font-size: 20px;
+}
+
+#error-message{
+  color: rgb(252, 41, 41);
+  font-size: 30px;
+}
+
+#weight-in-pounds{
+  padding: 5px;
+}
